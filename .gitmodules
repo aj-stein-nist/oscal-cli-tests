@@ -1,0 +1,6 @@
+[submodule "oscal-content"]
+	path = oscal-content
+	url = https://github.com/usnistgov/oscal-content.git
+[submodule "fedramp-content"]
+	path = fedramp-content
+	url = https://github.com/GSA/fedramp-automation.git
