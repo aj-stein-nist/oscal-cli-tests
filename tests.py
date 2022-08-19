@@ -11,7 +11,7 @@ ALL_TESTS = [
         'description': 'version command',
         'command_args': ['--version'],
         'returncode_match': 0,
-        'stdout_match': 'oscal-cli version 0.0.2-SNAPSHOT built on 2022-06-29 15:23 on commit 41a9ca8\r\nOSCAL version v1.0.4 on commit d3a2b99',
+        'stdout_match': 'oscal-cli version 0.2.0-SNAPSHOT built on 2022-08-18 16:21 on commit e95a5a6',
         'stderr_match': None,
         'exception_match': None
     },
